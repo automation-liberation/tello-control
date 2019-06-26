@@ -1,0 +1,8 @@
+image:
+  registry: irori.johansson.tech
+  package: automation-liberation/tello-control
+  tag: 0.1.0
+changelog:
+  Added:
+    - General commands from tello SDK 2.0
+    - Start drone using custom servo
